@@ -2,17 +2,6 @@
 
 This repository contains an exploratory data analysis (EDA) project on Zomato data. The primary goal of this project is to analyze the Zomato dataset to uncover insights about restaurants, cuisines, locations, ratings, and customer behavior.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Key Insights](#key-insights)
-- [Technologies Used](#technologies-used)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 Zomato is a global restaurant aggregator and food delivery company. This project performs a comprehensive exploratory data analysis of the Zomato dataset to understand various aspects of the restaurant industry, including:
